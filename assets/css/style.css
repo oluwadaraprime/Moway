@@ -4586,7 +4586,7 @@ option {
   transition: 0.6s;
   width: 100%;
   z-index: 9999;
-  background-color: #070D26;
+  background-color: #5A19D9;
 }
 .home-three-menu .menu-open::after {
   position: absolute;
@@ -4595,7 +4595,7 @@ option {
   right: 30%;
   width: 1px;
   height: calc(100% - 30%);
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.2); /* #00DDCC*/
 }
 .home-three-menu .menu-open.open {
   height: 100%;
@@ -4668,7 +4668,7 @@ option {
   visibility: hidden;
   -webkit-transition: 0.8s;
   transition: 0.8s;
-  font-size: 400px;
+  font-size: 350px;
   font-weight: 600;
   font-family: "Jost", sans-serif;
   letter-spacing: 12px;
@@ -6185,7 +6185,7 @@ option {
   }
 }
 .footer-section.three {
-  background: #070D26;
+  background: #5A19D9;
 }
 .footer-section.three .footer-widget p {
   color: #fff;
@@ -6828,7 +6828,7 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   }
 }
 .copyright-wrapper.three {
-  background-color: #070D26;
+  background-color: #5A19D9;
   margin-top: 0px;
 }
 .copyright-wrapper.three .copyright-area {
@@ -12846,7 +12846,7 @@ div[class*=col]:nth-of-type(4n + 4) .process-item .process-icon-area .process-ic
     [ ### case block ]
 */
 .case-section {
-  background-color: #142057;
+  background-color: #5A19D9; /* #142057 */
   position: relative;
 }
 .case-section .case-element-one {
@@ -13299,7 +13299,7 @@ div[class*=col]:nth-of-type(4n + 4) .process-item .process-icon-area .process-ic
   font-size: 14px;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
-  color: #F9FBFF;
+  color: #F9FBFF; 
   opacity: 50%;
   -webkit-transition: 0.3s all ease;
   transition: 0.3s all ease;
@@ -13561,7 +13561,7 @@ div[class*=col]:nth-of-type(4n + 4) .process-item .process-icon-area .process-ic
   top: 0;
   bottom: 0;
   right: 0;
-  background: transparent linear-gradient(178deg, #04072E00 0%, #070D26 100%) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(178deg, #04072E00 0%, #5A19D9 100%) 0% 0% no-repeat padding-box;
   opacity: 1;
 }
 .blog-single-item .content {
@@ -14094,7 +14094,7 @@ div[class*=col]:nth-of-type(3n + 3) .process-item.two::after {
   left: 0;
   width: 100%;
   height: 100%;
-  background: transparent linear-gradient(178deg, #04072E00 0%, #070D26 100%) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(178deg, #04072E00 0%, #5A19D9 100%) 0% 0% no-repeat padding-box;
 }
 .blog-item.two .blog-content {
   position: absolute;
